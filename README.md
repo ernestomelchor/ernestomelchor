@@ -1,7 +1,5 @@
 ### Hi there, I'm Ernesto! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...full stack web development.
 - 🌱 I’m currently learning ...React and Python.
 - 🤔 I’m looking for help with ...AWS.
